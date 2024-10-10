@@ -17,7 +17,7 @@
 <a href="https://fb.com/malindumliyanage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="malindumliyanage" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Programming Languages and Tools</h3>
+<h3 align="left">Programming Languages and Tools that I've worked with</h3>
 <h4>Mobile Development</h4>
     <table>
         <tr>
@@ -49,5 +49,47 @@
         </tr>
     </table>
 
+<h4>Programming Languages</h4>
+    <table>
+        <tr>
+            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></td>
+            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></td>
+            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></td>
+            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></td>
+        </tr>
+        <tr>
+            <td>C</td>
+            <td>C++</td>
+            <td>Java</td>
+            <td>Python</td>
+        </tr>
+    </table>
+
+<h4>Tools and Frameworks</h4>
+    <table>
+        <tr>
+            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></td>
+            <td><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></td>
+            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></td>
+            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></td>
+        </tr>
+        <tr>
+            <td>Docker</td>
+            <td>Firebase</td>
+            <td>MySQL</td>
+            <td>React</td>
+        </tr>
+    </table>
+
+<h4>AI/ ML</h4>
+
+<table>
+        <tr>
+            <td><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></td>
+        </tr>
+        <tr>
+            <td>TensorFlow</td>
+        </tr>
+    </table>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=malinduliyanage&show_icons=true&locale=en&layout=compact" alt="malinduliyanage" /></p>
