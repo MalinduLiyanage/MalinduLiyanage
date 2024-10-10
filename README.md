@@ -94,11 +94,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=malinduliyanage&show_icons=true&locale=en&layout=compact&theme=dark" alt="malinduliyanage" />
 </p>
 
-<p>
-  <a href="https://skyline.github.com/malinduliyanage/2024"><img src="https://img.shields.io/badge/Skyline-3D%20GitHub%20Contributions-blue?style=for-the-badge" alt="GitHub Skyline" /></a>
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=malinduliyanage&theme=dark" alt="Wakatime Stats" />
-</p>
 
