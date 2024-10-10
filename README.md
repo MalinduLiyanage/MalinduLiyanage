@@ -33,8 +33,7 @@
             <td>Kotlin</td>
         </tr>
     </table>
-
-    <h4>Web Development</h4>
+<h4>Web Development</h4>
     <table>
         <tr>
             <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></td>
@@ -50,46 +49,5 @@
         </tr>
     </table>
 
-    <h2>Programming Languages</h2>
-    <table>
-        <tr>
-            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></td>
-            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></td>
-            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></td>
-            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></td>
-        </tr>
-        <tr>
-            <td>C</td>
-            <td>C++</td>
-            <td>Java</td>
-            <td>Python</td>
-        </tr>
-    </table>
-
-    <h2>Tools and Frameworks</h2>
-    <table>
-        <tr>
-            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></td>
-            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></td>
-            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></td>
-        </tr>
-        <tr>
-            <td>Docker</td>
-            <td>Firebase</td>
-            <td>MySQL</td>
-            <td>React</td>
-        </tr>
-    </table>
-
-    <h2>Machine Learning</h2>
-    <table>
-        <tr>
-            <td><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></td>
-        </tr>
-        <tr>
-            <td>TensorFlow</td>
-        </tr>
-    </table>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=malinduliyanage&show_icons=true&locale=en&layout=compact" alt="malinduliyanage" /></p>
