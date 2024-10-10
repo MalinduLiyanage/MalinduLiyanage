@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto:malindumadhubashana@gmail.com" target="blank">
-  <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4vtphMtxRWfK6nO2CIbGfSETyEs79Dr6oPw&s" alt="malindumadhubashana" height="30" width="40" />
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" alt="malindumadhubashana" height="30" width="40" />
 </a>
 <a href="https://linkedin.com/in/malindu-liyanage-b69ab2330" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malindu-liyanage-b69ab2330" height="30" width="40" /></a>
 <a href="https://fb.com/malindumliyanage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="malindumliyanage" height="30" width="40" /></a>
