@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MalinduLiyanage?tab=repositories](https://github.com/MalinduLiyanage?tab=repositories)
 
-- 👩🏻‍💻 Upgrading **my skills upon Mobile App development, Backend Deelopment**
+- 👩🏻‍💻 Currently Upgrading **my skills upon Mobile App development, Backend Development** and I test other frameworks and things also.
 
 - 📫 How to reach me **malindumadhubashana@gmail.com**
 
@@ -24,13 +24,11 @@
             <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></td>
             <td><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></td>
             <td><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></td>
         </tr>
         <tr>
-            <td>Android</td>
+            <td>Android Java</td>
             <td>Dart</td>
             <td>Flutter</td>
-            <td>Kotlin</td>
         </tr>
     </table>
 <h4>Web Development</h4>
@@ -38,14 +36,12 @@
         <tr>
             <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></td>
             <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></td>
-            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></td>
-            <td><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></td>
+            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></td>
         </tr>
         <tr>
             <td>HTML5</td>
             <td>CSS3</td>
-            <td>PHP</td>
-            <td>Django</td>
+            <td>React JS</td>
         </tr>
     </table>
 
@@ -56,28 +52,26 @@
             <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></td>
             <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></td>
             <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></td>
+            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></td>
         </tr>
         <tr>
             <td>C</td>
             <td>C++</td>
             <td>Java</td>
             <td>Python</td>
+            <td>PHP</td>
         </tr>
     </table>
 
-<h4>Tools and Frameworks</h4>
+<h4>BaaS and Databases</h4>
     <table>
         <tr>
-            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></td>
             <td><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></td>
             <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></td>
-            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></td>
         </tr>
         <tr>
-            <td>Docker</td>
             <td>Firebase</td>
             <td>MySQL</td>
-            <td>React</td>
         </tr>
     </table>
 
@@ -92,4 +86,7 @@
         </tr>
     </table>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=malinduliyanage&show_icons=true&locale=en&layout=compact" alt="malinduliyanage" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=malinduliyanage&show_icons=true&locale=en&layout=compact&theme=dark" alt="malinduliyanage" />
+</p>
+
