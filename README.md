@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malinduliyanage&label=Profile%20views&color=0e75b6&style=plastic" alt="malinduliyanage" /> </p>
 
 - 🌱 I’m currently learning **few programming languages, and frameworks.**
-- 🎓 An BSc undergraduate at **Dept. of Computing, Faculty of Applied Sciences, Rajarata University of Sri Lanka.**
+- 🎓 A BSc undergraduate at **Dept. of Computing, Faculty of Applied Sciences, Rajarata University of Sri Lanka.**
 - 👨‍💻 All of my projects are available at [https://github.com/MalinduLiyanage?tab=repositories](https://github.com/MalinduLiyanage?tab=repositories)
 - 👩🏻‍💻 Currently Upgrading **my skills upon Mobile App development, Backend Development** and I test other frameworks and things also.
 - 📫 How to reach me **malindumadhubashana@gmail.com**
