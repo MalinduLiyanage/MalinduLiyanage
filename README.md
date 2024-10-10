@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Malindu Liyanage 🤠</h1>
 <h3 align="center">I like to see how computers are being developed overtime!!!</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile!;I+love+coding!;Happy+to+connect!" alt="Typing SVG" />
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malinduliyanage&label=Profile%20views&color=0e75b6&style=plastic" alt="malinduliyanage" /> </p>
 
@@ -91,5 +95,10 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=malinduliyanage&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+  <a href="https://skyline.github.com/malinduliyanage/2024"><img src="https://img.shields.io/badge/Skyline-3D%20GitHub%20Contributions-blue?style=for-the-badge" alt="GitHub Skyline" /></a>
 </p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=malinduliyanage&theme=dark" alt="Wakatime Stats" />
+</p>
+
