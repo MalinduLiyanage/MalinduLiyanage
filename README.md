@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Malindu Liyanage 🤠</h1>
+<h2 align="center">
+  <a href="https://malinduliyanage.github.io/Portfolio/" target="_blank">See My Portfolio!</a>
+</h2>
 <h3 align="center">I like to see how computers are being developed overtime!!!</h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile!;I+love+coding!;Happy+to+connect!" alt="Typing SVG" />
