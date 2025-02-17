@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Malindu Liyanage 🤠</h1>
 <h2 align="center">
-  <a href="https://malinduliyanage.github.io/Portfolio/" target="_blank">See My Portfolio!</a>
+  <a href="https://malinduliyanage.netlify.app/" target="_blank">See My Portfolio!</a>
 </h2>
 <h3 align="center">I like to see how computers are being developed overtime!!!</h3>
 <p align="center">
@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **few programming languages, and frameworks.**
 - 🎓 A BSc undergraduate at **Dept. of Computing, Faculty of Applied Sciences, Rajarata University of Sri Lanka.**
-- 👨‍💻 See my project showcase at [https://malinduliyanage.github.io/Portfolio/](https://malinduliyanage.github.io/Portfolio/)
+- 👨‍💻 See my project showcase at [https://malinduliyanage.netlify.app/](https://malinduliyanage.netlify.app/)
 - 👨‍💻 All of my projects are available at [https://github.com/MalinduLiyanage?tab=repositories](https://github.com/MalinduLiyanage?tab=repositories)
 - 👩🏻‍💻 Currently Upgrading **my skills upon Mobile App development, Backend Development** and I test other frameworks and things also.
 - 📫 Email me on: **malindumadhubashana@gmail.com**
